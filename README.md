@@ -4,4 +4,4 @@ Aquí ira toda información importante, no metas información de relleno
 
 ## Licencia
 
-Sin licencia
+Licencia Apache 3.0
