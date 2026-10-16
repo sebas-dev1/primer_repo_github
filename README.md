@@ -2,6 +2,7 @@
 
 Aquí ira toda información importante, no metas información de relleno
 
-## Licencia
+## Rama
 
-Licencia Apache 3.0
+Añadido en la rama develop
+
