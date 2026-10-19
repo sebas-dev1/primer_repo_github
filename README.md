@@ -1,5 +1,4 @@
-
-#Cabecera del documento de texto README.md- Ambas ramas combinadas
+#Ambas ramas combinadas
 Aquí ira toda información importante, no metas información de relleno
 
 ## Rama
