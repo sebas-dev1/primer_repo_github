@@ -1,5 +1,5 @@
-# Cabecera del documento de texto README.md- Modificado desde el main
 
+#Cabecera del documento de texto README.md- Ambas ramas combinadas
 Aquí ira toda información importante, no metas información de relleno
 
 ## Rama
